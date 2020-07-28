@@ -1,132 +1,61 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
-  <component name="BookmarkManager">
-    <bookmark url="file://$PROJECT_DIR$" />
+  <component name="BranchesTreeState">
+    <expand>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="LOCAL_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="GROUP_NODE:origin" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+    </expand>
+    <select />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="eab4577f-0bb6-42cb-9d00-b572ec873200" name="Default Changelist" comment="" />
-    <ignored path="$PROJECT_DIR$/out/" />
-    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <list default="true" id="eab4577f-0bb6-42cb-9d00-b572ec873200" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Day03_DS_Problem1_Array.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Day03_DS_Problem3_Hashing.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Day_03_DS_Problem2_GroceryList.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Day_05_IO_CSV.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Day_05_IO_P1_StrToText.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Day_05_IO_P2_XLSHandler.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Day_05_IO_P3_XLSXHandler.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Day_05_IO_P4_CSVHandler.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Day_05_IO_Practice.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Day_05_Regex_Practice.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Java_Snippets.iml" beforeDir="false" afterPath="$PROJECT_DIR$/Java_Snippets.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Java_Snippets/CircularArray.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Java_Snippets/My2DArray.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Java_Snippets/MyArray.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Java_Snippets/MyArrayList.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Java_Snippets/MyHashMap.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Java_Snippets/MyHashTable.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Java_Snippets/MyQueue.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Java_Snippets/MySet.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Java_Snippets/MyStack.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/CircularArray.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Day02_DS_CircularArray.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/My2DArray.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Day02_DS_My2DArray.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/MyArray.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Day02_DS_MyArray.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/MyArrayList.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Day02_DS_MyArrayList.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/MyHashMap.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Day02_DS_MyHashMap.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/MyHashTable.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Day02_DS_MyHashTable.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/MyQueue.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Day02_DS_MyQueue.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/MySet.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Day02_DS_MySet.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/MyStack.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Day02_DS_MyStack.java" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
-  </component>
-  <component name="FileEditorManager">
-    <leaf>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/MyArrayList.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="270">
-              <caret line="44" column="5" lean-forward="true" selection-start-line="9" selection-start-column="3" selection-end-line="44" selection-end-column="5" />
-              <folding>
-                <element signature="n#!!doc" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/MyArray.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="288">
-              <caret line="37" column="5" lean-forward="true" selection-start-line="6" selection-end-line="37" selection-end-column="5" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/CircularArray.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="-108">
-              <caret line="11" column="26" selection-start-line="11" selection-start-column="26" selection-end-line="11" selection-end-column="26" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/My2DArray.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="216">
-              <caret line="55" column="28" selection-start-line="55" selection-start-column="28" selection-end-line="55" selection-end-column="28" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/MyStack.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="558">
-              <caret line="31" column="52" selection-start-line="31" selection-start-column="52" selection-end-line="31" selection-end-column="52" />
-              <folding>
-                <element signature="e#258#259#0" expanded="true" />
-                <element signature="e#285#286#0" expanded="true" />
-                <element signature="e#318#319#0" expanded="true" />
-                <element signature="e#345#346#0" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/MyQueue.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="216">
-              <caret line="32" column="63" selection-start-line="32" selection-start-column="63" selection-end-line="32" selection-end-column="63" />
-              <folding>
-                <element signature="imports" expanded="true" />
-                <element signature="e#282#283#0" expanded="true" />
-                <element signature="e#314#315#0" expanded="true" />
-                <element signature="e#413#414#0" expanded="true" />
-                <element signature="e#449#450#0" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/src/MyHashTable.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="162">
-              <caret line="28" column="29" selection-start-line="28" selection-start-column="29" selection-end-line="28" selection-end-column="29" />
-              <folding>
-                <element signature="e#513#514#0" expanded="true" />
-                <element signature="e#540#541#0" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/MySet.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state>
-              <caret selection-end-line="4" selection-end-column="3" />
-              <folding>
-                <element signature="n#!!doc" expanded="true" />
-                <element signature="imports" expanded="true" />
-                <element signature="e#113#114#0" expanded="true" />
-                <element signature="e#149#150#0" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/MyHashMap.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="270">
-              <caret line="45" column="5" lean-forward="true" selection-start-line="9" selection-start-column="4" selection-end-line="45" selection-end-column="5" />
-              <folding>
-                <element signature="n#!!doc" expanded="true" />
-                <element signature="e#453#454#0" expanded="true" />
-                <element signature="e#480#481#0" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-    </leaf>
   </component>
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
@@ -135,115 +64,79 @@
       </list>
     </option>
   </component>
-  <component name="IdeDocumentHistory">
-    <option name="CHANGED_PATHS">
-      <list>
-        <option value="$PROJECT_DIR$/src/MyArrayList.java" />
-        <option value="$PROJECT_DIR$/src/MySet.java" />
-        <option value="$PROJECT_DIR$/src/MyHashMap.java" />
-        <option value="$PROJECT_DIR$/src/MyArray.java" />
-        <option value="$PROJECT_DIR$/src/CircularArray.java" />
-        <option value="$PROJECT_DIR$/src/My2DArray.java" />
-        <option value="$PROJECT_DIR$/src/MyStack.java" />
-        <option value="$PROJECT_DIR$/src/MyQueue.java" />
-        <option value="$PROJECT_DIR$/src/MyHashTable.java" />
-      </list>
-    </option>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
-  <component name="ProjectFrameBounds" extendedState="6" fullScreen="true">
-    <option name="x" value="145" />
-    <option name="y" value="72" />
-    <option name="width" value="1221" />
-    <option name="height" value="660" />
+  <component name="ProjectId" id="1fEnmsd9yJsaQsuSRZm1Wh77sTw" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="2" id="Add" />
   </component>
-  <component name="ProjectView">
-    <navigator proportions="" version="1">
-      <foldersAlwaysOnTop value="true" />
-    </navigator>
-    <panes>
-      <pane id="Scope" />
-      <pane id="PackagesPane" />
-      <pane id="ProjectPane">
-        <subPane>
-          <expand>
-            <path>
-              <item name="Java_Snippets" type="b2602c69:ProjectViewProjectNode" />
-              <item name="Java_Snippets" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="Java_Snippets" type="b2602c69:ProjectViewProjectNode" />
-              <item name="Java_Snippets" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-            </path>
-          </expand>
-          <select />
-        </subPane>
-      </pane>
-    </panes>
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
   </component>
   <component name="PropertiesComponent">
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1595496042572" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1595585071795" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/lib" />
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
     <property name="nodejs_npm_path_reset_for_default_project" value="true" />
-    <property name="settings.editor.selected.configurable" value="editor.preferences.completion" />
+    <property name="project.structure.last.edited" value="Modules" />
+    <property name="project.structure.proportion" value="0.15" />
+    <property name="project.structure.side.proportion" value="0.2" />
+    <property name="settings.editor.selected.configurable" value="configurable.group.tools" />
   </component>
-  <component name="RunDashboard">
-    <option name="ruleStates">
-      <list>
-        <RuleState>
-          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
-        </RuleState>
-        <RuleState>
-          <option name="name" value="StatusDashboardGroupingRule" />
-        </RuleState>
-      </list>
-    </option>
-  </component>
-  <component name="RunManager" selected="Application.MyHashTable">
-    <configuration name="CircularArray" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="CircularArray" />
+  <component name="RunManager" selected="Application.Day_05_IO_P4_CSVHandler">
+    <configuration name="Day_05_IO_CSV" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Day_05_IO_CSV" />
       <module name="Java_Snippets" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="My2DArray" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="My2DArray" />
+    <configuration name="Day_05_IO_P1_StrToText" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Day_05_IO_P1_StrToText" />
       <module name="Java_Snippets" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="MyHashTable" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="MyHashTable" />
+    <configuration name="Day_05_IO_P2_XLSHandler" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Day_05_IO_P2_XLSHandler" />
       <module name="Java_Snippets" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="MyQueue" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="MyQueue" />
+    <configuration name="Day_05_IO_P3_XLSXHandler" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Day_05_IO_P3_XLSXHandler" />
       <module name="Java_Snippets" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="MyStack" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="MyStack" />
+    <configuration name="Day_05_IO_P4_CSVHandler" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Day_05_IO_P4_CSVHandler" />
       <module name="Java_Snippets" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <list>
+      <item itemvalue="Application.Day_05_IO_CSV" />
+      <item itemvalue="Application.Day_05_IO_P1_StrToText" />
+      <item itemvalue="Application.Day_05_IO_P2_XLSHandler" />
+      <item itemvalue="Application.Day_05_IO_P3_XLSXHandler" />
+      <item itemvalue="Application.Day_05_IO_P4_CSVHandler" />
+    </list>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.MyHashTable" />
-        <item itemvalue="Application.MyQueue" />
-        <item itemvalue="Application.MyStack" />
-        <item itemvalue="Application.My2DArray" />
-        <item itemvalue="Application.CircularArray" />
+        <item itemvalue="Application.Day_05_IO_P4_CSVHandler" />
+        <item itemvalue="Application.Day_05_IO_P3_XLSXHandler" />
+        <item itemvalue="Application.Day_05_IO_P2_XLSHandler" />
+        <item itemvalue="Application.Day_05_IO_P1_StrToText" />
+        <item itemvalue="Application.Day_05_IO_CSV" />
       </list>
     </recent_temporary>
   </component>
@@ -257,145 +150,81 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1595488370372</updated>
-      <workItem from="1595488377473" duration="6688000" />
+      <workItem from="1595488377473" duration="7524000" />
+      <workItem from="1595580329308" duration="4657000" />
+      <workItem from="1595792291902" duration="41000" />
+      <workItem from="1595839196384" duration="714000" />
+      <workItem from="1595842156771" duration="8596000" />
+      <workItem from="1595915649592" duration="867000" />
+      <workItem from="1595916657483" duration="2481000" />
+      <workItem from="1595921594636" duration="12000" />
+      <workItem from="1595921892549" duration="12669000" />
     </task>
     <servers />
   </component>
-  <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="6688000" />
-  </component>
-  <component name="ToolWindowManager">
-    <frame x="0" y="-39" width="1366" height="807" extended-state="6" />
-    <editor active="true" />
-    <layout>
-      <window_info id="Image Layers" />
-      <window_info id="Designer" />
-      <window_info id="UI Designer" />
-      <window_info id="Capture Tool" />
-      <window_info id="Favorites" side_tool="true" />
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.22205438" />
-      <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
-      <window_info anchor="bottom" id="Messages" weight="0.32998565" />
-      <window_info anchor="bottom" id="Docker" show_stripe_button="false" />
-      <window_info anchor="bottom" id="Database Changes" />
-      <window_info anchor="bottom" id="Version Control" />
-      <window_info anchor="bottom" id="Terminal" />
-      <window_info anchor="bottom" id="Event Log" side_tool="true" />
-      <window_info anchor="bottom" id="Message" order="0" />
-      <window_info anchor="bottom" id="Find" order="1" />
-      <window_info anchor="bottom" id="Run" order="2" visible="true" weight="0.32998565" />
-      <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
-      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
-      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
-      <window_info anchor="bottom" id="TODO" order="6" />
-      <window_info anchor="right" id="Palette" />
-      <window_info anchor="right" id="Theme Preview" />
-      <window_info anchor="right" id="Maven" />
-      <window_info anchor="right" id="Capture Analysis" />
-      <window_info anchor="right" id="Palette&#9;" />
-      <window_info anchor="right" id="Database" />
-      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
-      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
-      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
-    </layout>
-  </component>
   <component name="TypeScriptGeneratedFilesManager">
-    <option name="version" value="1" />
+    <option name="version" value="2" />
   </component>
-  <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/src/MyArrayList.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="270">
-          <caret line="44" column="5" lean-forward="true" selection-start-line="9" selection-start-column="3" selection-end-line="44" selection-end-column="5" />
-          <folding>
-            <element signature="n#!!doc" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/MySet.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state>
-          <caret selection-end-line="4" selection-end-column="3" />
-          <folding>
-            <element signature="n#!!doc" expanded="true" />
-            <element signature="imports" expanded="true" />
-            <element signature="e#113#114#0" expanded="true" />
-            <element signature="e#149#150#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/MyArray.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="288">
-          <caret line="37" column="5" lean-forward="true" selection-start-line="6" selection-end-line="37" selection-end-column="5" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/CircularArray.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-108">
-          <caret line="11" column="26" selection-start-line="11" selection-start-column="26" selection-end-line="11" selection-end-column="26" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/My2DArray.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="216">
-          <caret line="55" column="28" selection-start-line="55" selection-start-column="28" selection-end-line="55" selection-end-column="28" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/MyStack.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="558">
-          <caret line="31" column="52" selection-start-line="31" selection-start-column="52" selection-end-line="31" selection-end-column="52" />
-          <folding>
-            <element signature="e#258#259#0" expanded="true" />
-            <element signature="e#285#286#0" expanded="true" />
-            <element signature="e#318#319#0" expanded="true" />
-            <element signature="e#345#346#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/MyQueue.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="216">
-          <caret line="32" column="63" selection-start-line="32" selection-start-column="63" selection-end-line="32" selection-end-column="63" />
-          <folding>
-            <element signature="imports" expanded="true" />
-            <element signature="e#282#283#0" expanded="true" />
-            <element signature="e#314#315#0" expanded="true" />
-            <element signature="e#413#414#0" expanded="true" />
-            <element signature="e#449#450#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/MyHashMap.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="270">
-          <caret line="45" column="5" lean-forward="true" selection-start-line="9" selection-start-column="4" selection-end-line="45" selection-end-column="5" />
-          <folding>
-            <element signature="n#!!doc" expanded="true" />
-            <element signature="e#453#454#0" expanded="true" />
-            <element signature="e#480#481#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/MyHashTable.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="162">
-          <caret line="28" column="29" selection-start-line="28" selection-start-column="29" selection-end-line="28" selection-end-column="29" />
-          <folding>
-            <element signature="e#513#514#0" expanded="true" />
-            <element signature="e#540#541#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+    <option name="oldMeFiltersMigrated" value="true" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="496" y="101" width="374" height="561" key="#com.intellij.ide.util.MemberChooser" timestamp="1595943608994">
+      <screen x="0" y="22" width="1366" height="746" />
+    </state>
+    <state x="496" y="101" width="374" height="561" key="#com.intellij.ide.util.MemberChooser/0.22.1366.746@0.22.1366.746" timestamp="1595943608994" />
+    <state x="371" y="122" key="#com.intellij.openapi.updateSettings.impl.PluginUpdateInfoDialog" timestamp="1595916222203">
+      <screen x="0" y="22" width="1366" height="746" />
+    </state>
+    <state x="371" y="122" key="#com.intellij.openapi.updateSettings.impl.PluginUpdateInfoDialog/0.22.1366.746@0.22.1366.746" timestamp="1595916222203" />
+    <state x="362" y="133" key="FileChooserDialogImpl" timestamp="1595943818966">
+      <screen x="0" y="22" width="1366" height="746" />
+    </state>
+    <state x="362" y="133" key="FileChooserDialogImpl/0.22.1366.746@0.22.1366.746" timestamp="1595943818966" />
+    <state width="1320" height="221" key="GridCell.Tab.0.bottom" timestamp="1595948296057">
+      <screen x="0" y="22" width="1366" height="746" />
+    </state>
+    <state width="1320" height="221" key="GridCell.Tab.0.bottom/0.22.1366.746@0.22.1366.746" timestamp="1595948296057" />
+    <state width="1320" height="221" key="GridCell.Tab.0.center" timestamp="1595948296057">
+      <screen x="0" y="22" width="1366" height="746" />
+    </state>
+    <state width="1320" height="221" key="GridCell.Tab.0.center/0.22.1366.746@0.22.1366.746" timestamp="1595948296057" />
+    <state width="1320" height="221" key="GridCell.Tab.0.left" timestamp="1595948296056">
+      <screen x="0" y="22" width="1366" height="746" />
+    </state>
+    <state width="1320" height="221" key="GridCell.Tab.0.left/0.22.1366.746@0.22.1366.746" timestamp="1595948296056" />
+    <state width="1320" height="221" key="GridCell.Tab.0.right" timestamp="1595948296057">
+      <screen x="0" y="22" width="1366" height="746" />
+    </state>
+    <state width="1320" height="221" key="GridCell.Tab.0.right/0.22.1366.746@0.22.1366.746" timestamp="1595948296057" />
+    <state x="179" y="22" width="1007" height="735" key="SettingsEditor" timestamp="1595943822891">
+      <screen x="0" y="22" width="1366" height="746" />
+    </state>
+    <state x="179" y="22" width="1007" height="735" key="SettingsEditor/0.22.1366.746@0.22.1366.746" timestamp="1595943822891" />
+    <state x="271" y="43" key="editAsTableFormatDialogDimension" timestamp="1595931626174">
+      <screen x="0" y="22" width="1366" height="746" />
+    </state>
+    <state x="271" y="43" key="editAsTableFormatDialogDimension/0.22.1366.746@0.22.1366.746" timestamp="1595931626174" />
+    <state x="63" y="22" key="new project wizard" timestamp="1595943117216">
+      <screen x="0" y="22" width="1366" height="746" />
+    </state>
+    <state x="63" y="22" key="new project wizard/0.22.1366.746@0.22.1366.746" timestamp="1595943117216" />
+    <state x="347" y="169" key="run.anything.popup" timestamp="1595945914822">
+      <screen x="0" y="22" width="1366" height="746" />
+    </state>
+    <state x="347" y="169" key="run.anything.popup/0.22.1366.746@0.22.1366.746" timestamp="1595945914822" />
+    <state x="346" y="88" width="672" height="678" key="search.everywhere.popup" timestamp="1595945241754">
+      <screen x="0" y="22" width="1366" height="746" />
+    </state>
+    <state x="346" y="88" width="672" height="678" key="search.everywhere.popup/0.22.1366.746@0.22.1366.746" timestamp="1595945241754" />
   </component>
 </project>
