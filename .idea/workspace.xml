@@ -20,37 +20,11 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="eab4577f-0bb6-42cb-9d00-b572ec873200" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Day03_DS_Problem1_Array.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Day03_DS_Problem3_Hashing.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Day_03_DS_Problem2_GroceryList.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Day_05_IO_CSV.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Day_05_IO_P1_StrToText.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Day_05_IO_P2_XLSHandler.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Day_05_IO_P3_XLSXHandler.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Day_05_IO_P4_CSVHandler.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Day_05_IO_Practice.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Day_05_Regex_Practice.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Day_06_Regex_FindMatch.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Day_06_Regex_UsefulRegex.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Java_Snippets.iml" beforeDir="false" afterPath="$PROJECT_DIR$/Java_Snippets.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Java_Snippets/CircularArray.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Java_Snippets/My2DArray.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Java_Snippets/MyArray.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Java_Snippets/MyArrayList.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Java_Snippets/MyHashMap.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Java_Snippets/MyHashTable.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Java_Snippets/MyQueue.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Java_Snippets/MySet.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Java_Snippets/MyStack.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/CircularArray.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Day02_DS_CircularArray.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/My2DArray.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Day02_DS_My2DArray.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/MyArray.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Day02_DS_MyArray.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/MyArrayList.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Day02_DS_MyArrayList.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/MyHashMap.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Day02_DS_MyHashMap.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/MyHashTable.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Day02_DS_MyHashTable.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/MyQueue.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Day02_DS_MyQueue.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/MySet.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Day02_DS_MySet.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/MyStack.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Day02_DS_MyStack.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/.~lock.Data1.xls#" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Java_Snippets/Day_05_IO_P4_CSVHandler.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Java_Snippets/Day_05_IO_P4_CSVHandler.class" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -87,21 +61,7 @@
     <property name="project.structure.side.proportion" value="0.2" />
     <property name="settings.editor.selected.configurable" value="configurable.group.tools" />
   </component>
-  <component name="RunManager" selected="Application.Day_05_IO_P4_CSVHandler">
-    <configuration name="Day_05_IO_CSV" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Day_05_IO_CSV" />
-      <module name="Java_Snippets" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="Day_05_IO_P1_StrToText" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Day_05_IO_P1_StrToText" />
-      <module name="Java_Snippets" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
+  <component name="RunManager" selected="Application.Day_06_Regex_UsefulRegex">
     <configuration name="Day_05_IO_P2_XLSHandler" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="Day_05_IO_P2_XLSHandler" />
       <module name="Java_Snippets" />
@@ -123,20 +83,34 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="Day_06_Regex_FindMatch" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Day_06_Regex_FindMatch" />
+      <module name="Java_Snippets" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Day_06_Regex_UsefulRegex" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Day_06_Regex_UsefulRegex" />
+      <module name="Java_Snippets" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <list>
-      <item itemvalue="Application.Day_05_IO_CSV" />
-      <item itemvalue="Application.Day_05_IO_P1_StrToText" />
       <item itemvalue="Application.Day_05_IO_P2_XLSHandler" />
       <item itemvalue="Application.Day_05_IO_P3_XLSXHandler" />
       <item itemvalue="Application.Day_05_IO_P4_CSVHandler" />
+      <item itemvalue="Application.Day_06_Regex_FindMatch" />
+      <item itemvalue="Application.Day_06_Regex_UsefulRegex" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.Day_06_Regex_UsefulRegex" />
+        <item itemvalue="Application.Day_06_Regex_FindMatch" />
         <item itemvalue="Application.Day_05_IO_P4_CSVHandler" />
         <item itemvalue="Application.Day_05_IO_P3_XLSXHandler" />
         <item itemvalue="Application.Day_05_IO_P2_XLSHandler" />
-        <item itemvalue="Application.Day_05_IO_P1_StrToText" />
-        <item itemvalue="Application.Day_05_IO_CSV" />
       </list>
     </recent_temporary>
   </component>
@@ -159,6 +133,7 @@
       <workItem from="1595916657483" duration="2481000" />
       <workItem from="1595921594636" duration="12000" />
       <workItem from="1595921892549" duration="12669000" />
+      <workItem from="1596024368959" duration="9434000" />
     </task>
     <servers />
   </component>
@@ -178,10 +153,10 @@
     <option name="oldMeFiltersMigrated" value="true" />
   </component>
   <component name="WindowStateProjectService">
-    <state x="496" y="101" width="374" height="561" key="#com.intellij.ide.util.MemberChooser" timestamp="1595943608994">
+    <state x="496" y="101" width="374" height="561" key="#com.intellij.ide.util.MemberChooser" timestamp="1596024739844">
       <screen x="0" y="22" width="1366" height="746" />
     </state>
-    <state x="496" y="101" width="374" height="561" key="#com.intellij.ide.util.MemberChooser/0.22.1366.746@0.22.1366.746" timestamp="1595943608994" />
+    <state x="496" y="101" width="374" height="561" key="#com.intellij.ide.util.MemberChooser/0.22.1366.746@0.22.1366.746" timestamp="1596024739844" />
     <state x="371" y="122" key="#com.intellij.openapi.updateSettings.impl.PluginUpdateInfoDialog" timestamp="1595916222203">
       <screen x="0" y="22" width="1366" height="746" />
     </state>
@@ -190,22 +165,22 @@
       <screen x="0" y="22" width="1366" height="746" />
     </state>
     <state x="362" y="133" key="FileChooserDialogImpl/0.22.1366.746@0.22.1366.746" timestamp="1595943818966" />
-    <state width="1320" height="221" key="GridCell.Tab.0.bottom" timestamp="1595948296057">
+    <state width="1314" height="226" key="GridCell.Tab.0.bottom" timestamp="1596033564959">
       <screen x="0" y="22" width="1366" height="746" />
     </state>
-    <state width="1320" height="221" key="GridCell.Tab.0.bottom/0.22.1366.746@0.22.1366.746" timestamp="1595948296057" />
-    <state width="1320" height="221" key="GridCell.Tab.0.center" timestamp="1595948296057">
+    <state width="1314" height="226" key="GridCell.Tab.0.bottom/0.22.1366.746@0.22.1366.746" timestamp="1596033564959" />
+    <state width="1314" height="226" key="GridCell.Tab.0.center" timestamp="1596033564958">
       <screen x="0" y="22" width="1366" height="746" />
     </state>
-    <state width="1320" height="221" key="GridCell.Tab.0.center/0.22.1366.746@0.22.1366.746" timestamp="1595948296057" />
-    <state width="1320" height="221" key="GridCell.Tab.0.left" timestamp="1595948296056">
+    <state width="1314" height="226" key="GridCell.Tab.0.center/0.22.1366.746@0.22.1366.746" timestamp="1596033564958" />
+    <state width="1314" height="226" key="GridCell.Tab.0.left" timestamp="1596033564957">
       <screen x="0" y="22" width="1366" height="746" />
     </state>
-    <state width="1320" height="221" key="GridCell.Tab.0.left/0.22.1366.746@0.22.1366.746" timestamp="1595948296056" />
-    <state width="1320" height="221" key="GridCell.Tab.0.right" timestamp="1595948296057">
+    <state width="1314" height="226" key="GridCell.Tab.0.left/0.22.1366.746@0.22.1366.746" timestamp="1596033564957" />
+    <state width="1314" height="226" key="GridCell.Tab.0.right" timestamp="1596033564959">
       <screen x="0" y="22" width="1366" height="746" />
     </state>
-    <state width="1320" height="221" key="GridCell.Tab.0.right/0.22.1366.746@0.22.1366.746" timestamp="1595948296057" />
+    <state width="1314" height="226" key="GridCell.Tab.0.right/0.22.1366.746@0.22.1366.746" timestamp="1596033564959" />
     <state x="179" y="22" width="1007" height="735" key="SettingsEditor" timestamp="1595943822891">
       <screen x="0" y="22" width="1366" height="746" />
     </state>
