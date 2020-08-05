@@ -20,17 +20,17 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="eab4577f-0bb6-42cb-9d00-b572ec873200" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/src/Day_07_Regex_P1_CharacterMatch.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Day_07_Regex_P2_WordFinder.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Day_07_Regex_P3_WordCapture.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Day_07_Regex_P4_Movies.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Day_08_HTTP_GET.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Day_08_HTTP_POST.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/lib/dataset.xlsx" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="CodeInsightWorkspaceSettings">
+    <option name="optimizeImportsOnTheFly" value="true" />
   </component>
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
@@ -67,21 +67,7 @@
       <recent name="$PROJECT_DIR$" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.Day_07_Regex_P4_Movies">
-    <configuration name="Day_05_IO_P3_XLSXHandler" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Day_05_IO_P3_XLSXHandler" />
-      <module name="Java_Snippets" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="Day_07_Regex_P1_CharacterMatch" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Day_07_Regex_P1_CharacterMatch" />
-      <module name="Java_Snippets" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
+  <component name="RunManager" selected="Application.Day_08_HTTP_POST">
     <configuration name="Day_07_Regex_P2_WordFinder" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="Day_07_Regex_P2_WordFinder" />
       <module name="Java_Snippets" />
@@ -103,20 +89,34 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="Day_08_HTTP_GET" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Day_08_HTTP_GET" />
+      <module name="Java_Snippets" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Day_08_HTTP_POST" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Day_08_HTTP_POST" />
+      <module name="Java_Snippets" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <list>
-      <item itemvalue="Application.Day_05_IO_P3_XLSXHandler" />
-      <item itemvalue="Application.Day_07_Regex_P1_CharacterMatch" />
       <item itemvalue="Application.Day_07_Regex_P2_WordFinder" />
       <item itemvalue="Application.Day_07_Regex_P3_WordCapture" />
       <item itemvalue="Application.Day_07_Regex_P4_Movies" />
+      <item itemvalue="Application.Day_08_HTTP_GET" />
+      <item itemvalue="Application.Day_08_HTTP_POST" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.Day_08_HTTP_POST" />
+        <item itemvalue="Application.Day_08_HTTP_GET" />
         <item itemvalue="Application.Day_07_Regex_P4_Movies" />
         <item itemvalue="Application.Day_07_Regex_P3_WordCapture" />
         <item itemvalue="Application.Day_07_Regex_P2_WordFinder" />
-        <item itemvalue="Application.Day_07_Regex_P1_CharacterMatch" />
-        <item itemvalue="Application.Day_05_IO_P3_XLSXHandler" />
       </list>
     </recent_temporary>
   </component>
@@ -144,6 +144,8 @@
       <workItem from="1596439477126" duration="429000" />
       <workItem from="1596441007111" duration="6151000" />
       <workItem from="1596448844743" duration="6828000" />
+      <workItem from="1596522343725" duration="466000" />
+      <workItem from="1596610721074" duration="8156000" />
     </task>
     <servers />
   </component>
@@ -163,10 +165,10 @@
     <option name="oldMeFiltersMigrated" value="true" />
   </component>
   <component name="WindowStateProjectService">
-    <state x="496" y="101" width="374" height="561" key="#com.intellij.ide.util.MemberChooser" timestamp="1596446477242">
+    <state x="496" y="101" width="374" height="561" key="#com.intellij.ide.util.MemberChooser" timestamp="1596611075033">
       <screen x="0" y="22" width="1366" height="746" />
     </state>
-    <state x="496" y="101" width="374" height="561" key="#com.intellij.ide.util.MemberChooser/0.22.1366.746@0.22.1366.746" timestamp="1596446477242" />
+    <state x="496" y="101" width="374" height="561" key="#com.intellij.ide.util.MemberChooser/0.22.1366.746@0.22.1366.746" timestamp="1596611075033" />
     <state x="371" y="122" key="#com.intellij.openapi.updateSettings.impl.PluginUpdateInfoDialog" timestamp="1595916222203">
       <screen x="0" y="22" width="1366" height="746" />
     </state>
@@ -175,26 +177,30 @@
       <screen x="0" y="22" width="1366" height="746" />
     </state>
     <state x="362" y="133" key="FileChooserDialogImpl/0.22.1366.746@0.22.1366.746" timestamp="1596091502683" />
-    <state width="1324" height="211" key="GridCell.Tab.0.bottom" timestamp="1596464633744">
+    <state width="1324" height="199" key="GridCell.Tab.0.bottom" timestamp="1596626498865">
       <screen x="0" y="22" width="1366" height="746" />
     </state>
-    <state width="1324" height="211" key="GridCell.Tab.0.bottom/0.22.1366.746@0.22.1366.746" timestamp="1596464633744" />
-    <state width="1324" height="211" key="GridCell.Tab.0.center" timestamp="1596464633743">
+    <state width="1324" height="199" key="GridCell.Tab.0.bottom/0.22.1366.746@0.22.1366.746" timestamp="1596626498865" />
+    <state width="1324" height="199" key="GridCell.Tab.0.center" timestamp="1596626498864">
       <screen x="0" y="22" width="1366" height="746" />
     </state>
-    <state width="1324" height="211" key="GridCell.Tab.0.center/0.22.1366.746@0.22.1366.746" timestamp="1596464633743" />
-    <state width="1324" height="211" key="GridCell.Tab.0.left" timestamp="1596464633743">
+    <state width="1324" height="199" key="GridCell.Tab.0.center/0.22.1366.746@0.22.1366.746" timestamp="1596626498864" />
+    <state width="1324" height="199" key="GridCell.Tab.0.left" timestamp="1596626498864">
       <screen x="0" y="22" width="1366" height="746" />
     </state>
-    <state width="1324" height="211" key="GridCell.Tab.0.left/0.22.1366.746@0.22.1366.746" timestamp="1596464633743" />
-    <state width="1324" height="211" key="GridCell.Tab.0.right" timestamp="1596464633744">
+    <state width="1324" height="199" key="GridCell.Tab.0.left/0.22.1366.746@0.22.1366.746" timestamp="1596626498864" />
+    <state width="1324" height="199" key="GridCell.Tab.0.right" timestamp="1596626498865">
       <screen x="0" y="22" width="1366" height="746" />
     </state>
-    <state width="1324" height="211" key="GridCell.Tab.0.right/0.22.1366.746@0.22.1366.746" timestamp="1596464633744" />
+    <state width="1324" height="199" key="GridCell.Tab.0.right/0.22.1366.746@0.22.1366.746" timestamp="1596626498865" />
     <state x="179" y="22" width="1007" height="735" key="SettingsEditor" timestamp="1595943822891">
       <screen x="0" y="22" width="1366" height="746" />
     </state>
     <state x="179" y="22" width="1007" height="735" key="SettingsEditor/0.22.1366.746@0.22.1366.746" timestamp="1595943822891" />
+    <state x="487" y="302" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2" timestamp="1596626740064">
+      <screen x="0" y="22" width="1366" height="746" />
+    </state>
+    <state x="487" y="302" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2/0.22.1366.746@0.22.1366.746" timestamp="1596626740064" />
     <state x="271" y="43" key="editAsTableFormatDialogDimension" timestamp="1595931626174">
       <screen x="0" y="22" width="1366" height="746" />
     </state>
